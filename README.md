@@ -1,4 +1,10 @@
 # Automating-Real-World-Tasks-with-Python-Week-4
+
+My solution for the final course project:
+https://www.coursera.org/learn/automating-real-world-tasks-python/gradedLti/TQTMk/qwiklabs-assessment-automate-updating-catalog-information
+
+
+
 Automate updating catalog information
 
 Qwiklabs Assessment: Automate updating catalog information
